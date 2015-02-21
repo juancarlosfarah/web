@@ -1,2 +1,12 @@
+# Jekyll
+# ======
 _site
 .sass-cache
+
+# IDEA
+# ====
+.idea
+
+# Git
+# ===
+*.orig
