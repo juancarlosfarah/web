@@ -1,0 +1,44 @@
+---
+layout: page
+title: Acentos
+permalink: /writing/es/acentos/
+---
+
+Claudio se levanta por las tardes, no toma desayuno y se siente infeliz.
+¿No será por eso que le dio una úlcera? Según su ego dinástico fue más bien por
+la comida en exceso y por la alegría de más que se le subió a la cabeza. No
+entiendo a veces por qué fuma. Sé que no es por vicio sino por aburrimiento,
+por una desilusión total con la falta de anarquía en nuestra sociedad. Y a veces
+cuando nos sentamos a comer pizzas frías y a tomar vodka barato de botella de
+plástico me cuenta todas estas historias, todas estas malacrianzas que me ponen
+de mal humor y él se pone de mal humor cuando no le entiendo, cuando no le doy
+la contra y me dejo poner en ridículo porque supuestamente tiene algo mucho más
+importante, mucho más trascendente que decir que el resto de las personas de su
+edad. ¿Quién eres tú Claudio? No pienses que tus atuendos oscuros y tus camisas
+rotas te hacen diferente. La diferencia si a caso no te viene de adentro, según
+dicen las revistas, no es diferencia alguna... es graciosa tal vez, es
+atractiva, pero te jodes porque nadie se come tu cuento. Tal vez es por eso, por
+la falta de tranquilidad que eres tan racista, tan hipócrita... ¡eres un
+hipócrita Claudio! ¡Mándalos a la mierda! ¡Mándame a la mierda! ¿Puedes acaso?
+¿Puedes acaso decir siquiera un poco de lo que piensas? Porque hasta cuando
+escribes las palabras se van perdiendo cuando tus manos filtran eso que tanto
+quieres gritar que tanto tiempo has tenido en los bordes de tus dientes,
+limándolo, esculpiéndolo bien para que tres idiotas crean que eres más
+interesante, más inteligente tal vez, o más gracioso que el resto del mundo.
+Eres un hipócrita Claudio. No me matarías ni aunque pudieres mañana. Crípticos
+tus mensajes, tus capuchas, tus lentes oscuros. Sutiles tus cuentos, tus
+palabras, tus conversaciones, tus deseos... ¿no crees? Que cuando te vea
+caminando Claudio no te voy a hablar y vas a ver cómo te va a doler. Así. No te
+voy a dejar salir porque ya no me haces daño ni me haces bien. Eres como esos
+estúpidos acentos diacríticos en idiomas muertos que absorben tus sentimientos.
+Como los mensajes de texto, tus comunicaciones subyugadas a unas tres líneas por
+hora quedarán muertas, entre las plantas que compraste el mes pasado y te
+olvidaste de regar. Entre las calculadoras viejas que tu padre te regalo cuando
+entraste al colegio. ¿Qué? ¿No entiendes Claudio? Tú no estás acá para ayudarme
+a vivir. Vete. Muérete. Ahógate en alguna tina o regala tu libertad al asesinato
+más intempestivo que se te pueda ocurrir. Así yo te iré matando poco a poco. Así
+tus ojos se cerrarán y quedaremos por fin separados. Tú con la melodía y yo con
+la progresión de acordes. Mientras que me quedo dormido vendrás y me sacarás las
+cuerdas vocales y te suicidarás porque cuando escribo con acentos, todas tus
+hipocresías se pierden entre la semántica de mi pensamiento. Y yo siempre
+escribo con acentos mi amor, así que acostúmbrate.
