@@ -11,6 +11,7 @@ texts that I've written throughout the years.
 
 - [Acentos](/writing/es/acentos)
 - [Ángeles](/writing/es/angeles)
+- [Arte](/writing/es/arte)
 
 **EN**
 
