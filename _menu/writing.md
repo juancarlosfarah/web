@@ -13,6 +13,7 @@ texts that I've written throughout the years.
 - [Ángeles](/writing/es/angeles)
 - [Arte](/writing/es/arte)
 - [Blanco](/writing/es/blanco)
+- [Bus](/writing/es/bus)
 
 **EN**
 
