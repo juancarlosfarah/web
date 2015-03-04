@@ -14,6 +14,7 @@ texts that I've written throughout the years.
 - [Arte](/writing/es/arte)
 - [Blanco](/writing/es/blanco)
 - [Bus](/writing/es/bus)
+- [Cafés](/writing/es/cafes)
 
 **EN**
 
