@@ -16,6 +16,7 @@ texts that I've written throughout the years.
 - [Bus](/writing/es/bus)
 - [Cafés](/writing/es/cafes)
 - [Cuaderno](/writing/es/cuaderno)
+- [Duchas](/writing/es/duchas)
 
 **EN**
 
