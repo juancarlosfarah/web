@@ -17,6 +17,7 @@ texts that I've written throughout the years.
 - [Cafés](/writing/es/cafes)
 - [Cuaderno](/writing/es/cuaderno)
 - [Duchas](/writing/es/duchas)
+- [Frío](/writing/es/frio)
 
 **EN**
 
