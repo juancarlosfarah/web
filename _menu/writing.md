@@ -18,6 +18,7 @@ texts that I've written throughout the years.
 - [Cuaderno](/writing/es/cuaderno)
 - [Duchas](/writing/es/duchas)
 - [Frío](/writing/es/frio)
+- [Geografía](/writing/es/geografia)
 
 **EN**
 
