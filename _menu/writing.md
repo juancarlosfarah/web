@@ -19,6 +19,7 @@ texts that I've written throughout the years.
 - [Duchas](/writing/es/duchas)
 - [Frío](/writing/es/frio)
 - [Geografía](/writing/es/geografia)
+- [Globitos](/writing/es/globitos)
 
 **EN**
 
