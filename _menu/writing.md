@@ -20,6 +20,7 @@ texts that I've written throughout the years.
 - [Frío](/writing/es/frio)
 - [Geografía](/writing/es/geografia)
 - [Globitos](/writing/es/globitos)
+- [Guerras](/writing/es/guerras)
 
 **EN**
 
