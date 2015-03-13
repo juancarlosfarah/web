@@ -21,6 +21,7 @@ texts that I've written throughout the years.
 - [Geografía](/writing/es/geografia)
 - [Globitos](/writing/es/globitos)
 - [Guerras](/writing/es/guerras)
+- [Kant](/writing/es/kant)
 
 **EN**
 
