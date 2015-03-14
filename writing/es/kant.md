@@ -28,13 +28,13 @@ Guillermo, por el sólo hecho de ser anarquista, sabe que el anarquismo no
 puede existir sin reglas, legislación, sociedades e idiotas que vivan en
 ellas.—Pero eso a mí qué me importa—me dijo varias veces. Sabía que él, como
 pocos, era afortunado. Podía rechazar todas esas obligaciones—¡tan
-arbitrarias carajo!—y dedicarse a pensar, dándole a su mente la
+arbitrarias carajo!—y dedicarse a pensar, a darle a su mente la
 libertad de comportarse como le dé la gana. Como anarquista, como fuera, como
 quisiera. Y lógicamente diferente frente a los otros. Los idiotas.
 
 Ojo que aunque quiero que Guillermo me entienda, que me escuche, sé que lo más
-importante para él es la naturalidad y no los resultados. Pero yo no entiendo
-cómo dejar la lógica. No entiendo cómo obviar el hecho de que lo irracional
+importante para él es la naturalidad. Pero yo no llego a entender cómo dejar la
+lógica. No entiendo cómo obviar el hecho de que lo irracional
 puede racionalizarse con ciertos conceptos básicos de matemática pura. Con
 axiomas y algunas variables y ecuaciones y aquellos algoritmos más antiguos que
 la historia misma. Ésos que nos dan la música, el amor, el sentimiento, la
@@ -45,7 +45,7 @@ lógico del espacio-tiempo. Hoy en día nos automatiza. Nos hace
 hombres de negocios, académicos, abogados, ciudadanos, filósofos. Yo te
 conocí cuando ya no quería automatizarme y ganar, sino perder. Perder el
 tiempo entendiendo estos procesos y rechazándolos, uno por uno. Haciendo que
-mis formulaciones me pongan en ridículo y me permitan dejarlas sin que me
+mis formulaciones me pongan en ridículo y así me permitan dejarlas sin que me
 duela mucho. Estuve tanto tiempo en mi mente cuando te conocí que se me hizo
 fácil entenderte, abrazarte a ti y a tus ideas, y entrar en tu vida.
 
@@ -53,12 +53,12 @@ Ahora nos comenzamos a aburrir Guillermo y yo porque mi mente se está
 apagando. Ya no quiero pensar, pero paradójicamente vuelvo al ajedrez,
 complicadísimo. Calculo todo el día y hasta he dejado de leer. Es que es eso
 lo que mata tu sentido de falta de lógica, Guillermo. El hecho de que ahora,
-ahora que te conozco. Ahora no puedo ver cómo dejar nuestra relación a la
+ahora que te conozco, ahora mismo no puedo ver cómo dejar nuestra relación a la
 improvisación la haría mejor, le daría profundidad, futuro. Porque eso me
 mata a mí, Guillermo. Quiero futuro. Después de minutos, horas, días, años de
-monotonía tendría o que dejarte o jugar ajedrez. Si quiera hacer un par de
+monotonía tendría o que dejarte o jugar ajedrez. Siquiera hacer un par de
 movidas, pero de ahí pienso «¿te darías cuenta?» y ¿ves? Ya estoy jugando
 ajedrez. Si continúo escribiendo así me tendrías que dejar, me odiarías y yo
 te dejaría. Por eso, por un par de días, me pondré a leer, a ver si me pierdo
-un poco y dejo de llenar los silencios con tos y cigarrillos.
+un poco y dejo que se llenen los silencios con tos y cigarrillos.
 
