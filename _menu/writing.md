@@ -22,6 +22,7 @@ texts that I've written throughout the years.
 - [Globitos](/writing/es/globitos)
 - [Guerras](/writing/es/guerras)
 - [Kant](/writing/es/kant)
+- [Museo](/writing/es/museo)
 
 **EN**
 
