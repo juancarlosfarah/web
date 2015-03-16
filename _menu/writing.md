@@ -23,6 +23,7 @@ texts that I've written throughout the years.
 - [Guerras](/writing/es/guerras)
 - [Kant](/writing/es/kant)
 - [Museo](/writing/es/museo)
+- [Religión](/writing/es/religion)
 
 **EN**
 
