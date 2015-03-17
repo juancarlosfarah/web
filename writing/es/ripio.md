@@ -26,5 +26,5 @@ y escucha. Ya te tocará hablar y besar y ser eterno y entender que nunca te
 librarás de ese ripio que va quedando en tu cerebro cada vez que te sientas
 con tu cuaderno a dibujar mujeres surrealistas mientras tus profesores
 monolíticos responden con respuestas por responder a aquellas preguntas por
-preguntar de los idiotas. Idiotas simplemente por gusto que te dejan con
-el cambio de su idiotez.
+preguntar de los idiotas. Idiotas que te dejan con el cambio de su idiotez
+no porque quieran, sino por gusto.
