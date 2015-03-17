@@ -15,15 +15,16 @@ moviendo esas neuronas tan agotadas de procesar información basura y entiende,
 comprende que así no vas a llegar a ningún lado, sentado tomando cafés con tus
 amigos intelectuales. Sentado repitiendo las mismas citas de extremistas pop y
 esperando que te crezca la barba para parecer más interesante y que tal vez la
-flaca que toma vino, que estudia arte. Esa flaca elocuente que se pone
-collares griegos. Que ella tal vez se siente contigo un día a tomar un té o un
+flaca que toma vino, que estudia arte, esa flaca elocuente que se pone
+collares griegos, que ella tal vez se siente contigo un día a tomar un té o un
 café o un jugo de maracuyá y te escuche y te quiera seguir escuchando tal vez
 para darte un beso o desvestirse en tu cama o pasar una noche contigo en una
 playa del Mediterráneo y darte esa eternidad que tanto quieres... que tanto te
 preocupas con experimentar. Escucha, que mientras se te acaban los minutos te
 darás cuenta de por qué escoges levantarte cada mañana. No comas mucho, piensa
-y escucha. Ya te tocará hablar y besar y ser eterno y enteder que nunca te
+y escucha. Ya te tocará hablar y besar y ser eterno y entender que nunca te
 librarás de ese ripio que va quedando en tu cerebro cada vez que te sientas
-con tu cuaderno a dibujar mujeres surrealistas mientras que tus profesores
+con tu cuaderno a dibujar mujeres surrealistas mientras tus profesores
 monolíticos responden con respuestas por responder a aquellas preguntas por
-preguntar de los idiotas. Idiotas simplemente por gusto.
+preguntar de los idiotas. Idiotas simplemente por gusto que te dejan con
+el cambio de su idiotez.
