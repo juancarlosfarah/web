@@ -24,6 +24,7 @@ texts that I've written throughout the years.
 - [Kant](/writing/es/kant)
 - [Museo](/writing/es/museo)
 - [Religión](/writing/es/religion)
+- [Ripio](/writing/es/ripio)
 
 **EN**
 
