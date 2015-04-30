@@ -11,7 +11,7 @@ demás están hablando... literatura árabe o alguna religión. Hoy ella
 está muy callada y me encanta. Sonríe ligeramente y baja la mirada. Unos ojos
 perfectamente bordados con una sombra tan negra como su pelo, desordenado,
 natural, que cubre o más bien va a la par con dos aretes redondos, grandes. Dos
-medias lunas que se tocan en la punta, bajo las estrellas de la cadenas que
+medias lunas que se tocan en la punta, bajo las estrellas de las cadenas que
 cuelgan de sus orejas, simétricas, a una distancia perfecta de su nariz, como
 un dulce.
 
