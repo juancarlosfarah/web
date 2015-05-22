@@ -17,10 +17,10 @@ los ojos y ver a Verónica ahí, le mata, le frustra, le consume. Esta noche,
 como todas, Hugo tiene su celular al lado de su cama, esperando la llamada o
 que la lucecita roja se prenda y sea un mensaje de texto y sea de ella, y
 ella le diga, ahí voy y venga y duerman y se despierte y no tenga que
-levantarse de la cama para encontrar por lo menos un indicio amor.
+levantarse de la cama para encontrar por lo menos un indicio de amor.
 
 Hace años que Hugo dejó de recibir llamadas del resto del mundo, de sus amigos,
-de su familia, de su trabajo, todas las ignoraba. No las ha contestado porque a
+de su familia, de su trabajo. Todas las ignoraba. No las ha contestado porque a
 él no le importa más que esa única llamada pendiente de Verónica. Dejó de
 trabajar, de estudiar, de comer. Hugo, famélico, lleva años sin tomar agua ni
 comer siquiera un pan, porque es como si a él le hubiesen puesto en pausa, para
