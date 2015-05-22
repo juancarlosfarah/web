@@ -25,6 +25,7 @@ texts that I've written throughout the years.
 - [Museo](/writing/es/museo)
 - [Religión](/writing/es/religion)
 - [Ripio](/writing/es/ripio)
+- [Rosa](/writing/es/rosa)
 
 **EN**
 
