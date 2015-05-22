@@ -12,28 +12,29 @@ arruinarle su salud mental, dejándole presa de un sentido de añoro eterno. Es
 que dormir solo es muy complicado cuando uno se está comenzando a acostumbrar
 a compartir el sueño. El hecho de no tener que levantarse y todos los días
 buscar a alguien y llorar y gritar y darse cuenta de que a uno no le quieren, o
-le quieren, pero hasta ahí no más, pues el hecho ése, de no tener que levantarse
-y sólo abrir los ojos y ver a Verónica ahí, le mata, le frustra, le consume y
-esta noche, como todas, Hugo tiene su celular al lado de su cama, esperando la
-llamada o que la lucecita roja se prenda y sea un mensaje de texto y sea de
-ella, y ella le diga, ahí voy y venga y duerman y se despierte y no tenga que
-levantarse de la cama para encontrar amor.
+le quieren, pero hasta ahí no más, pues el hecho ése, de no poder sólo abrir
+los ojos y ver a Verónica ahí, le mata, le frustra, le consume. Esta noche,
+como todas, Hugo tiene su celular al lado de su cama, esperando la llamada o
+que la lucecita roja se prenda y sea un mensaje de texto y sea de ella, y
+ella le diga, ahí voy y venga y duerman y se despierte y no tenga que
+levantarse de la cama para encontrar por lo menos un indicio amor.
 
 Hace años que Hugo dejó de recibir llamadas del resto del mundo, de sus amigos,
-de su familia, de su trabajo, todas las ignoraba, no las ha contestado porque a
+de su familia, de su trabajo, todas las ignoraba. No las ha contestado porque a
 él no le importa más que esa única llamada pendiente de Verónica. Dejó de
 trabajar, de estudiar, de comer. Hugo, famélico, lleva años sin tomar agua ni
 comer siquiera un pan, porque es como si a él le hubiesen puesto en pausa, para
-reanudar después, como un plato de comida dejado en el refrigerador, poco a poco
-perdiendo su valor, su sabor, su gracia, su motivo de existencia. Pero es todo
-porque Hugo piensa demasiado. Eso de calcular todas las posibilidades, las
-combinaciones, las permutaciones, los resultados y sus probabilidades. Hugo no
-duerme, se pasa el tiempo pensando en las millones de vidas que Verónica ha
-podido tener desde el momento en que envió su mensaje y no le contestó el
-celular. Y como un espectro se le aparece en palabras que oye a través de las
-paredes, que salen del piso, murmullos difíciles de descifrar, que se le meten
-en los oídos, le quitan la paz y hacen que no pueda llorar, porque llorar sería
-una cosa tan estúpida de hacer.
+reanudar después, como un plato de comida puesto en la última
+repisa del refrigerador, destinado a fermentarse, a perder su valor, su sabor,
+su gracia, su motivo de ser. Pero es todo porque Hugo piensa demasiado. Eso
+de calcular todas las posibilidades, las combinaciones, las permutaciones,
+los resultados y sus probabilidades. Hugo no duerme, se pasa el tiempo
+pensando en las millones de vidas que Verónica ha podido tener desde el
+momento en que envió su mensaje y no le contestó el celular. Y como un
+espectro se le aparece en palabras que oye a través de las paredes, que salen
+del piso, murmullos difíciles de descifrar, que se le meten en los oídos, le
+quitan la paz y hacen que no pueda llorar, porque llorar sería una cosa tan
+estúpida de hacer.
 
 Llorar le haría recordar esos breves momentos que tan idealizados están en su
 mente, de esa vida que se imaginó en segundos, historias completas que mientras
