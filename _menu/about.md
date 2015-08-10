@@ -22,4 +22,5 @@ the first major Pan-Arab arts exhibition at the Venice Biennale and
 [We Need to Talk](http://edgeofarabia.com/exhibitions/we-need-to-talk-jeddah),
 the first large-scale contemporary art exhibition in Jeddah. At present I'm
 director of [mimanzana](http://mimanzana.com), a digital marketing firm based
-in Lima, Peru.
+in Lima, Peru, and work on several software engineering projects as a
+freelancer.
