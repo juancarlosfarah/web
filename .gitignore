@@ -17,3 +17,12 @@ _site
 *.gem
 Gemfile.lock
 _vendor/
+
+# Temporary Files
+# ===============
+tmp/
+*.swp
+
+# Coverage
+# ========
+coverage/
