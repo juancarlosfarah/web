@@ -1,4 +1,4 @@
-juancarlosfarah.github.io
-=========================
+Juan Carlos Farah
+=================
 
-Juan Carlos Farah's web page.
+This is the repository for Juan Carlos Farah's web page.
