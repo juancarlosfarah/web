@@ -18,3 +18,5 @@ collections:
         permalink: /:path/
     writing:
         output: true
+
+exclude: [vendor]
