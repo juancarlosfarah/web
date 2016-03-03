@@ -10,3 +10,10 @@ _site
 # Git
 # ===
 *.orig
+
+# Ruby
+# ====
+.bundle/
+*.gem
+Gemfile.lock
+_vendor/
