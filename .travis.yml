@@ -5,4 +5,4 @@ rvm:
 
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
-script: ./script/build
+script: ./scripts/build
