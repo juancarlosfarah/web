@@ -9,7 +9,7 @@ github_username:  juancarlosfarah
 
 # Build settings
 markdown:       kramdown
-highlighter:    pygments
+highlighter:    rouge
 
 # Collections
 collections:
