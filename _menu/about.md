@@ -33,7 +33,7 @@ I write, take photographs, make music, curate, design and code. You can
 find me on
 [Twitter](http://bit.ly/21mjDiv),
 [GitHub](http://bit.ly/1pkjukg),
-[StackOverflow](http://bit.ly/1RbgJOn),
+[Stack Overflow](http://bit.ly/1RbgJOn),
 [Instagram](http://bit.ly/1RbXgXq),
 [Pinterest](https://www.pinterest.com/juancarlosfarah/) and several other social 
 media sites.
