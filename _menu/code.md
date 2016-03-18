@@ -10,5 +10,4 @@ I'm currently working on an article about Webpack. Hopefully it will be
 finished by the end of March.
 
 ### Quality Assurance
-- [Testing jQuery with Webpack, PhantomJS, Mocha, Chai and Istanbul]
-(/code/qa/testing-jquery-with-webpack-phantomjs-mocha-chai-and-istanbul)
+- [Testing jQuery with Webpack, PhantomJS, Mocha, Chai and Istanbul](/code/qa/testing-jquery-with-webpack-phantomjs-mocha-chai-and-istanbul)
