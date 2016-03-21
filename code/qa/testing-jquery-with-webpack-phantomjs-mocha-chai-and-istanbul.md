@@ -29,5 +29,3 @@ coverage frameworks.
 
 ### Coverage
 - Istanbul
-
-{% last_modified_at %}

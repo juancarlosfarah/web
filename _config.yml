@@ -20,7 +20,3 @@ collections:
         output: true
 
 exclude: [vendor]
-
-# Gems
-gems:
-    - jekyll-last-modified-at
