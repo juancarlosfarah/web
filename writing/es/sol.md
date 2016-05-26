@@ -1,43 +1,57 @@
 ---
 layout: page
-title: Sábanas
-permalink: /writing/es/sabanas/
+title: Sol
+permalink: /writing/es/sol/
 ---
 
-Lo que sintió Alberto esa mañana fue un miedo sin precedentes, que le arrancaba
-la felicidad del corazón y le hacía dudar absolutamente todos los principios que
-hasta ese momento había tenido, o creído tener, claros en la mente. Obviamente
-no era culpa de ella. Como toda mujer sensata sabía en lo que se estaba metiendo
-y Alberto, pues Alberto tal vez creyó que fue un tanto inmaduro para ella.
-Inmaduro porque tan rápidamente pensó en renunciar a todas las alegrías que ella
-le traería después, después de un tiempo muy tumultuoso de acostumbramiento, de
-darse cuenta de que el amor, su amor tan intenso, no viene sin ese miedo de que
-se estrelle intempestivamente y deje literalmente un cráter donde antes estaba
-su estable y poco agitada vida.
+Cuando no estoy contigo son los líquidos y la música lo que me hace tan feliz
+que me olvido de que no estás conmigo y que tal vez me quedaré así por un
+tiempo, tal vez para siempre, pero lo bueno de la música y los líquidos es que
+están ahí para llenar este agujero, a veces inmenso, a veces tan pequeño que ni
+lo siento, pero siempre pasa y siempre están la música y los líquidos. Puedo
+escribir con los ojos cerrados y así se me va el miedo de que ya me haya
+olvidado de tu cara de lo que se siente no fracasar a diario, es decir, fracasar
+en las pequeñas interacciones, como los agujeros que a veces no son tan malos,
+porque nos refrescan, que tengo contigo. Contigo Alicia, ¡no sé qué puedo hacer
+contigo!
 
-Alberto no pudo dormir aunque normalmente después de amar a alguien se pegaba un
-poco a ella y dejaba que sus pensamientos lo arrullen para luego acomodarse
-tranquilamente en su lado de la cama, que parecía inmensa. Pero esa noche
-Alberto tenía en la mente notas de canciones antiguas, de melodías perdidas que
-le hacían verdaderamente dudar de la posibilidad de este amor que sin él
-pedirlo, le estaba cambiando toda su perspectiva de la vida y del apego que uno
-puede sentir tan rápidamente por alguien que pocos días antes, era completamente
-ajena, de quien la vida de uno, la vida de Alberto, mi vida, estaba inmune.
+Grabo nuestras conversaciones en mi cabeza y les pongo un bajo cuando escribo
+con los ojos cerrados y así me duelen menos, porque sin el bajo son tan claras
+tus palabras que les doy mil vueltas y mil intenciones que tal vez nunca pasaron
+por tu cabeza, pero es que la mía es tan sentimental, por eso me llena tanto la
+música aún cuando estoy sobrio, completamente y cuando trato de quitarme esa
+sobriedad con los líquidos, a veces en botellas, a veces en vasos, a veces en
+pequeñas cápsulas, siento que la música va cobrando otras dimensiones, ajenas
+al plano principal de tus palabras, que obviamente siempre están ahí. Pero es
+ese proceso en el cual lentamente me voy dando cuenta de cómo va cambiando la
+forma en que me llenan los sonidos lo que me enamora, me vuelve loco Alicia,
+como tú, Alicia, ¡cómo tú me vuelves loco!
 
-Por muchas horas Alberto se movió de un lado a otro, perdiéndose en el olor de
-su pelo y luego en la suavidad de su piel, besando su espalda, su cuello, su
-frente. Luego retorcía él solo, en su mente, gritando, sofocándose con las ganas
-de saber las respuestas de preguntas que sólo una persona que como él, se
-está volviendo loca, se podría preguntar. Millones de situaciones, de asuntos
-de moralidad, de compatibilidad, todo irracional, todo se le metía en las partes
-más activas de su conciencia y no dejaba que disfrute de lo tan tierno que
-acababa de tener. De alguien que obviamente se dejaba llevar por la corriente de
-los hechos más lógicos, adecuados, bellos, apasionantes, que eso era lo que le
-interesaba a Alberto, la pasión, pero ahora que la tenía, ¿por qué la dejaba ir?
-¿Por qué interrumpía lo natural con lo artificial, con lo lógico, con lo de los
-libros? Si tanto se creía la persona que decía ser, entonces estaba
-suicidándose, quedando como hipócrita, como uno más que utilizan frases clichés
-para dormir con mujeres sensuales. Eso era lo que estaba matando Alberto con su
-mente, la sensualidad de este momento de su vida y si bien él pensaba que podría
-olvidarse, poco sabía que las sábanas se lo contarían noche tras noche,
-sacándolo poco a poco de su tan añorada locura.
+Y el sabor de los líquidos, dulces a veces como las melodías electrónicas,
+mezclados con aguardientes picantes, que me queman la lengua pero es tan dulce
+ese dolor, como cuando me hieres con tus palabras y luego me endulzas con tus
+besos. Dios mío, que huevadas me haces escribir a veces Alicia, ¿no te das
+cuenta que estoy perdiendo hasta la profundidad de mis temas? ¿No te das cuenta
+que es de esto que yo vivo? Y si dejo de pensar voy a quedarme en el aire
+Alicia, hay una responsabilidad, hay una responsabilidad que yo dejé atrás
+cuando me enamoré de ti y ahora tú me tienes que hacer el favor, si no quieres
+verme rodeado de líquidos y música por siempre, porque a veces creo que eso es
+lo que tú quieres, librarme y que me dé cuenta de que es en los líquidos y en
+la música donde yo debo estar, pero si quieres entonces mejorarme, hacerme
+sentir más, muchísimo, que entre en tu frecuencia, tiene que haber una llave,
+un pistola, una bala, un cajón que yo abra y luego podamos dejar que se llene
+de las ondas, de las vibraciones alrededor de nosotros, un país de drogas, de
+amor, de sexo, de alucinaciones donde nos exprimimos y salen químicos, sudor,
+mugre, toda la mugre que siempre está rodeándonos en nuestras actividades
+diarias, que la música nos limpie Alicia, que la música nos libre Alicia, que
+la música te separe de mí por siempre, pero que nadando, como pequeños peces en
+círculos, nos encontremos y nos veamos y nos amemos y sintamos que es de verdad
+y no un cuento.
+
+Entiendo tus emociones, entiendo tus preocupaciones, las entiendo en mí música,
+las entiendo en mis bebidas, las entiendo por las mañanas, pero de noche, cuando
+no te veo y tengo que hablar y bailar e interactuar, por las noches me haces
+falta. Ahí bebo más y escucho más canciones que hablan, que hablan demasiado
+Alicia y por eso me frustro. Yo sólo quiero tus palabras ardientes y tus besos
+delicados con mi música y eso sólo lo encuentro en las mañanas, si todavía no te
+has ido y tenemos tiempo para olvidarnos de que ya salió el sol.
