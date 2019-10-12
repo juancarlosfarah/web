@@ -11,7 +11,7 @@ const AboutPage = () => {
             <Header.Content>
               About
               <Header.Subheader>
-                I wear many hats.
+                I wear multiple hats.
               </Header.Subheader>
             </Header.Content>
           </Header>
