@@ -44,7 +44,9 @@ describe('data integrity', () => {
         const {data} = matter.read(`data/blog/${post}/index.md`);
         validators.forEach(field => {
           it(`should have correct format for ${field.key}`, () => {
-            expect(field.validator(data[field.key], post)).toBeTruthy();
+            if (data[field.key]) {
+              expect(field.validator(data[field.key], post)).toBeTruthy();
+            }
           });
         });
       });

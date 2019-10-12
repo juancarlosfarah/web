@@ -61,7 +61,7 @@ const IndexPage = (props: LayoutProps) =>
 
       {/* Key Features */}
       <Segment vertical className="stripe alternate feature">
-        <Grid columns='equal' textAlign="center" divided relaxed stackable className="container">
+        <Grid columns="equal" textAlign="center" divided relaxed stackable className="container">
           <Grid.Column>
             <Header icon>
               <Icon name="code" />
