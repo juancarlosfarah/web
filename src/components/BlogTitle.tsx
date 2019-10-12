@@ -1,16 +1,16 @@
 import * as React from "react";
-import { Header, Segment, Icon } from "semantic-ui-react";
+import {Header, Segment, Icon} from "semantic-ui-react";
 
 export default () => {
   return (
     <Segment vertical>
       <Header as="h2">
-        <Icon name="newspaper" />
+        <Icon name="write"/>
         <Header.Content>
-          Blog
-            <Header.Subheader>
-            All about this starter kit
-            </Header.Subheader>
+          Writing
+          <Header.Subheader>
+            Sometimes I like to put on my writing hat.
+          </Header.Subheader>
         </Header.Content>
       </Header>
     </Segment>

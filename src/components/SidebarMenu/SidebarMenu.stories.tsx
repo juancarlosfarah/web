@@ -5,13 +5,13 @@ const SidebarMenuReadme = require("./README.md");
 import * as React from "react";
 import { storiesOf } from "@storybook/react";
 import { action } from "@storybook/addon-actions";
-import { withKnobs, text, boolean } from "@storybook/addon-knobs";
+import { withKnobs, text } from "@storybook/addon-knobs";
 import { SidebarMenu } from "./SidebarMenu";
 
 const items = [
   { name: "Home", path: "/", exact: true, icon: "home" },
   { name: "About", path: "/about/", exact: true, icon: "info circle" },
-  { name: "Blog", path: "/blog/", exact: false, icon: "newspaper" },
+  { name: "Writing", path: "/blog/", exact: false, icon: "write" },
 ];
 
 const LinkStub: any = (props: any) =>

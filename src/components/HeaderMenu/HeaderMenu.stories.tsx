@@ -11,7 +11,7 @@ import { HeaderMenu } from "./HeaderMenu";
 const items = [
   { name: "Home", path: "/", exact: true },
   { name: "About", path: "/about/", exact: true },
-  { name: "Blog", path: "/blog/", exact: false },
+  { name: "Writing", path: "/blog/", exact: false },
 ];
 
 const LinkStub = (props: any) =>

@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `My website`,
+    title: `Juan Carlos Farah`,
     googleVerification: `abcdefz`,
-    disqus: `gatsby-typescript`
+    disqus: `juancarlosfarah`
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': `AuthorJson`
@@ -20,7 +20,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: 'YOUR_GOOGLE_ANALYTICS_TRACKING_ID',
+        trackingId: 'UA-60228396-1',
         // Puts tracking script in the head instead of the body
         head: false,
         // Setting this parameter is optional
