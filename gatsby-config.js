@@ -1,96 +1,85 @@
-const path = require('path')
-const config = require('./data/config')
-
-require('dotenv').config({
-	path: `.env.${process.env.NODE_ENV}`,
-})
-
 module.exports = {
-	siteMetadata: {
-		title: config.defaultTitle,
-		description: config.defaultDescription,
-		author: config.author,
-	},
-	plugins: [
-		'gatsby-plugin-react-helmet',
-		'gatsby-plugin-styled-components',
-		/* {
-      resolve: 'gatsby-source-filesystem',
+  siteMetadata: {
+    title: `My website`,
+    googleVerification: `abcdefz`,
+    disqus: `gatsby-typescript`
+  },
+  mapping: {
+    'MarkdownRemark.frontmatter.author': `AuthorJson`
+  },
+  plugins: [
+    // Expose `/data` to graphQL layer
+    {
+      resolve: `gatsby-source-filesystem`,
       options: {
-        name: 'assets',
-        path: '${__dirname}/src/assets',
-      },
-    }, */
-		'gatsby-transformer-sharp',
-		'gatsby-plugin-sharp',
-		{
-			resolve: 'gatsby-source-graphql',
-			options: {
-				typeName: 'GitHub',
-				fieldName: 'github',
-				url: 'https://api.github.com/graphql',
-				headers: {
-					Authorization: `bearer ${process.env.GITHUB_TOKEN}`,
-				},
-				fetchOptions: {},
-			},
-		},
-		{
-			resolve: 'gatsby-plugin-nprogress',
-			options: {
-				color: config.themeColor,
-				showSpinner: false,
-			},
-		},
-		{
-			resolve: 'gatsby-plugin-google-analytics',
-			options: {
-				trackingId: config.googleAnalyticsID,
-				head: true,
-			},
-		},
-		{
-			resolve: 'gatsby-plugin-favicon',
-			options: {
-				logo: './static/favicon/favicon-512.png',
-				injectHTML: true,
-				icons: {
-					android: true,
-					appleIcon: true,
-					appleStartup: true,
-					coast: false,
-					favicons: true,
-					firefox: true,
-					twitter: false,
-					yandex: false,
-					windows: false,
-				},
-			},
-		},
-		{
-			resolve: 'gatsby-plugin-manifest',
-			options: {
-				name: config.defaultTitle,
-				short_name: 'starter',
-				start_url: '/',
-				background_color: config.backgroundColor,
-				theme_color: config.themeColor,
-				display: 'minimal-ui',
-				icon: './static/favicon/favicon-512.png',
-			},
-		},
-		'gatsby-plugin-offline',
-		{
-			resolve: `gatsby-plugin-alias-imports`,
-			options: {
-				alias: {
-					Components: path.resolve(__dirname, 'src/components'),
-					Common: path.resolve(__dirname, 'src/components/common'),
-					Static: path.resolve(__dirname, 'static/'),
-					Theme: path.resolve(__dirname, 'src/components/theme'),
-					Data: path.resolve(__dirname, 'data/config'),
-				},
-			},
-		},
-	],
-}
+        name: `data`,
+        path: `${__dirname}/data`
+      }
+    },
+
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: 'YOUR_GOOGLE_ANALYTICS_TRACKING_ID',
+        // Puts tracking script in the head instead of the body
+        head: false,
+        // Setting this parameter is optional
+        anonymize: true,
+        // Setting this parameter is also optional
+        respectDNT: true
+      }
+    },
+
+    // Parse all markdown files (each plugin add/parse some data into graphQL layer)
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 690,
+              backgroundColor: `#f7f0eb`
+            }
+          },
+          `gatsby-remark-prismjs`,
+          `gatsby-remark-copy-linked-files`,
+          `gatsby-remark-autolink-headers`
+        ]
+      }
+    },
+
+    // Parse all images files
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
+
+    // Parse JSON files
+    `gatsby-transformer-json`,
+
+    // Add typescript stack into webpack
+    `gatsby-plugin-typescript`,
+
+    // This plugin takes your configuration and generates a
+    // web manifest file so your website can be added to your
+    // homescreen on Android.
+    /* eslint-disable camelcase */
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `Gatsby website`,
+        short_name: `Gatsby website`,
+        start_url: `/`,
+        background_color: `#f7f7f7`,
+        theme_color: `#191919`,
+        display: `minimal-ui`
+      }
+    },
+    /* eslint-enable camelcase */
+
+    // This plugin generates a service worker and AppShell
+    // html file so the site works offline and is otherwise
+    // resistant to bad networks. Works with almost any
+    // site!
+    `gatsby-plugin-offline`
+  ]
+};
